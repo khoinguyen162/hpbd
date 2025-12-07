@@ -1,4 +1,4 @@
-export const PASSWORD = "1234"; //sửa pass ở đây
+export const PASSWORD = "12345"; //sửa pass ở đây
 
 //sửa phần text vs btn
 
